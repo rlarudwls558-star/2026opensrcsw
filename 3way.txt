@@ -1,1 +1,1 @@
-이건 3waymerge를 위한 main 파일
+이건 3waymerge를 위한 3way브런치 파일
