@@ -7,9 +7,9 @@
 - git 
 
 ##코드샘플
-'''python
+```python
 print("hello, 오소소")
-'''
+```
 
 #수업목록
 | 항목 | 내용|
